@@ -1,3 +1,3 @@
 # newdjangoproject
 
-![Screenshotofsite](
+![Screenshotofsite](django_administration.PNG)
