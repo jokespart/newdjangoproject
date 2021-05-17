@@ -1,1 +1,3 @@
 # newdjangoproject
+
+![Screenshotofsite](
